@@ -1,31 +1,22 @@
-# Hi there, I'm Tai-Long Chen 👋
+# Tai-Long Chen
 
-**Computational Imaging Researcher** | Pushing the boundaries of super-resolution microscopy
+**Computational imaging researcher** building algorithms and tools for AI microscopy, SMLM, PSF modeling, 3D localization, and intelligent computation.
 
----
-
-## 🧑‍🔬 About Me
-
-- **Name**: Tai-Long Chen  
-- **Role**: Computational Imaging Researcher  
-- **Current focus**: NP-Cloud drift correction for SMLM  
-- **Research interests**: SMLM, Super-Resolution Imaging, Deep Learning for Microscopy, Ultrasound Localization, PSF Modeling, Drift Correction  
-- **Languages**: Python, MATLAB, Julia, C++/CUDA  
+<p align="left">
+  <a href="https://tailong-chen.github.io">Website</a> ·
+  <a href="https://github.com/Tailong-Chen?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/Tailong-Chen">GitHub</a>
+</p>
 
 ---
 
-## 🔬 Research Areas
+## Research Focus
 
-| | | |
-|:---:|:---:|:---:|
-| **🧬 SMLM** | **🎯 Drift Correction** | **🫀 Ultrasound Microscopy** |
-| Single Molecule Localization Microscopy with nanometer precision | Computational methods for sample drift correction in long acquisitions | Super-resolution concepts for ultrasound imaging of microvasculature |
-| **🧠 Deep Learning** | **🔭 PSF Engineering** | **📊 Image Analysis** |
-| Neural networks for image reconstruction, denoising and segmentation | Point spread function modeling for 3D localization microscopy | Quantitative analysis, velocimetry, and statistical methods |
+My research focuses on **AI for microscopy**, especially deep learning and intelligent computational methods for **single-molecule localization microscopy (SMLM)**, with broader interests in PSF modeling, 3D localization, image reconstruction, and advanced optical microscopy technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tools I Use
 
 **Languages**
 
@@ -35,83 +26,31 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Frameworks & Tools**
+**Scientific Computing**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## Collaboration
 
-<table>
-<tr>
-<td width="50%">
+I am interested in research collaborations around AI microscopy, SMLM, PSF modeling, 3D localization, microscope automation, and intelligent computational microscopy.
 
-### [npcloud-python](https://github.com/Tailong-Chen/npcloud-python) ⭐
-Python implementation of **NP-Cloud drift correction** for SMLM. A robust computational method for correcting sample drift using nanoparticle fiducial markers.
-
-`Python` `NumPy` `SMLM` `Drift Correction`
-
-</td>
-<td width="50%">
-
-### [segmentation](https://github.com/Tailong-Chen/segmentation)
-Image segmentation tools and algorithms for microscopy data analysis and biological image processing.
-
-`Python` `Image Processing`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [PALA](https://github.com/Tailong-Chen/PALA) ⭐
-OPUS-PALA & LOTUS tools for ultrasound localization microscopy analysis.
-
-`MATLAB` `ULM` `Ultrasound`
-
-</td>
-<td width="50%">
-
-### [NAIRR-SMLM](https://github.com/Tailong-Chen/NAIRR-SMLM)
-Datasets and benchmarks in SMLM for AI research, training, and education.
-
-`Benchmark` `SMLM` `AI`
-
-</td>
-</tr>
-</table>
-
-> 📂 [View all 45 repositories →](https://github.com/Tailong-Chen?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tailong-Chen&show_icons=true&theme=default&border_radius=8&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailong-Chen&layout=compact&theme=default&border_radius=8&langs_count=8" />
+<p align="left">
+  <a href="https://tailong-chen.github.io">tailong-chen.github.io</a>
 </p>
 
----
-
-## 🤝 Get In Touch
-
-- 🔗 **GitHub**: [@Tailong-Chen](https://github.com/Tailong-Chen)
-- 🌐 **Website**: [tailong-chen.github.io](https://tailong-chen.github.io)
-
-💬 *Open to research collaborations in computational imaging and microscopy!*
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tailong-Chen&color=blue&style=flat-square&label=Profile+Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tailong-Chen&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
